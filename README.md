@@ -13,6 +13,9 @@ Visualized results using bar charts.
 
 Gujarat Titans emerged as the most successful team with 12 wins.
 
+<img width="822" height="667" alt="image" src="https://github.com/user-attachments/assets/fd1a4a04-02cf-4577-a236-eb4107f69e9f" />
+
+
 2. Toss Analysis
 
 Analyzed toss decisions (Bat vs Field).
