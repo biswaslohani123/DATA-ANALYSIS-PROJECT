@@ -59,6 +59,9 @@ Jasprit Bumrah – 5/10 (best bowling figures)
 
 Counted matches played at each venue.
 
+<img width="766" height="781" alt="image" src="https://github.com/user-attachments/assets/98fa175e-450b-417a-a4f0-2563703791d1" />
+
+
 Wankhede Stadium hosted the most matches (21).
 
 Mumbai venues dominated the season.
@@ -66,10 +69,17 @@ Mumbai venues dominated the season.
 6. Record Breakers
 
 Highest individual score: Quinton de Kock – 140 runs
+<img width="736" height="135" alt="image" src="https://github.com/user-attachments/assets/dab11b90-1cb0-4af2-ac08-c2377162590a" />
+
 
 Biggest win margin (runs): CSK – 91 runs vs Delhi
+<img width="536" height="520" alt="image" src="https://github.com/user-attachments/assets/88b5da90-a0a7-4a12-a746-cd9f478477d3" />
+
 
 Best bowling figures: Jasprit Bumrah – 5/10
+
+<img width="892" height="245" alt="image" src="https://github.com/user-attachments/assets/f90ab93d-b2ed-40f2-b360-538ba8f74209" />
+
 
 🔧 Tools & Technologies
 
