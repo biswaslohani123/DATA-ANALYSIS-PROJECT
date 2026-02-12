@@ -24,11 +24,17 @@ Examined the relationship between toss winner and match winner.
 
 48.65% of toss winners went on to win the match.
 
+<img width="826" height="641" alt="image" src="https://github.com/user-attachments/assets/33b9305c-2699-4e4c-8ae5-3fc446a9b37d" />
+
+
 3. Win Types
 
 Compared wins by Runs vs Wickets.
 
 Perfect 37-37 split between defending and chasing victories.
+
+<img width="815" height="587" alt="image" src="https://github.com/user-attachments/assets/b427063f-7a78-4480-9c02-4f3e5a8fb0ed" />
+
 
 4. Player Performance
 
@@ -41,6 +47,15 @@ Kuldeep Yadav – POTM 4 times (highest in the season)
 Jos Buttler – 651 runs (highest total)
 
 Jasprit Bumrah – 5/10 (best bowling figures)
+
+<img width="823" height="702" alt="image" src="https://github.com/user-attachments/assets/c2f1cc6c-951f-44f0-97ce-7961847c3c96" />
+
+<img width="781" height="708" alt="image" src="https://github.com/user-attachments/assets/6f33942f-2e8c-4e78-9f3a-911cc56338e5" />
+
+<img width="758" height="733" alt="image" src="https://github.com/user-attachments/assets/e38e9d8b-86f0-486b-9dc3-1bbfe66c424f" />
+
+
+
 
 5. Venue Analysis
 
