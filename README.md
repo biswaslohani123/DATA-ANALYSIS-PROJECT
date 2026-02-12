@@ -4,7 +4,8 @@ This is my first data analysis project where I explore the IPL 2022 season datas
 
 I performed this analysis using Python in a Jupyter Notebook, applying basic data manipulation and visualization techniques to uncover insights from the data.
 
-🔎 Analysis Performed
+Analysis Performed
+
 1. Team Performance
 Counted total matches won by each team
 
